@@ -10,12 +10,12 @@ Instalação e configuração do Git
 
 Comandos essenciais:
 
--git init
--git clone
--git add
--git commit
--git status
--git log
+- git init
+- git clone
+- git add
+- git commit
+- git status
+- git log
 
 #
 
@@ -24,10 +24,10 @@ Conectar repositórios locais a repositórios remotos
 
 Comandos para interagir com repositórios remotos:
 
--git remote
--git fetch
--git pull
--git push
+- git remote
+- git fetch
+- git pull
+- git push
 
 #
 
@@ -36,14 +36,14 @@ Conceito de branches e sua importância
 
 Comandos para criar e gerenciar branches:
 
--git branch
--git checkout
--git merge
--git rebase
+- git branch
+- git checkout
+- git merge
+- git rebase
 
 **Recursos Adicionais**
--Documentação Oficial do Git | https://git-scm.com/doc
--Pro Git Book | https://git-scm.com/book/en/v2
+- Documentação Oficial do Git | https://git-scm.com/doc
+- Pro Git Book | https://git-scm.com/book/en/v2
 
 Como Contribuir
 Se você encontrar problemas ou tiver sugestões para melhorar este material, por favor, abra uma issue ou envie um pull request.
