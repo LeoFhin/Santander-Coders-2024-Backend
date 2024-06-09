@@ -55,6 +55,8 @@ Comandos para criar e gerenciar branches:
 - git merge | Combina as alterações de uma branch com outra.
 - git rebase |  Aplica as alterações de uma branch sobre outra, reescrevendo o histórico de commits.
 
+#
+
 **Recursos Adicionais**
 - Documentação Oficial do Git | https://git-scm.com/doc
 - Pro Git Book | https://git-scm.com/book/en/v2
