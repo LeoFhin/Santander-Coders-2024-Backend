@@ -4,6 +4,7 @@ Esta branch contém materiais e exercícios relacionados ao uso do Git e ao cont
 #
 
 **1. Introdução ao Git**
+
 Conceitos básicos de versionamento
 
 Instalação e configuração do Git
@@ -20,6 +21,7 @@ Comandos essenciais:
 #
 
 **2. Configurando o Git**
+
 Configuração com dados pessoais
 
 Comandos essenciais:
@@ -27,7 +29,10 @@ Comandos essenciais:
 - git config --global user.name "Seu Nome" | Define o nome de usuário que será associado aos seus commits.
 - git config --global user.email "seu-email@example.com" | Define o endereço de e-mail que será associado aos seus commits.
 
+#
+
 **3. Trabalhando com Repositórios Remotos**
+
 Conectar repositórios locais a repositórios remotos
 
 Comandos para interagir com repositórios remotos:
@@ -40,6 +45,7 @@ Comandos para interagir com repositórios remotos:
 #
 
 **4. Branches e Merging**
+
 Conceito de branches e sua importância
 
 Comandos para criar e gerenciar branches:
