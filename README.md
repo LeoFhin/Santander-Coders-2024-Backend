@@ -10,36 +10,44 @@ Instalação e configuração do Git
 
 Comandos essenciais:
 
-- git init
-- git clone
-- git add
-- git commit
-- git status
-- git log
+- git init | Inicia um novo repositório Git na pasta atual.
+- git clone | Clona um repositório Git existente para o seu computador.
+- git add | Adiciona arquivos ao índice (staging area) para serem incluídos no próximo commit.
+- git commit | Registra as alterações no repositório, criando um novo commit.
+- git status | Mostra o status atual do repositório, indicando arquivos modificados, adicionados ou removidos.
+- git log | Mostra o histórico de commits do repositório.
 
 #
 
-**2. Trabalhando com Repositórios Remotos**
+**2. Configurando o Git**
+Configuração com dados pessoais
+
+Comandos essenciais:
+
+- git config --global user.name "Seu Nome" | Define o nome de usuário que será associado aos seus commits.
+- git config --global user.email "seu-email@example.com" | Define o endereço de e-mail que será associado aos seus commits.
+
+**3. Trabalhando com Repositórios Remotos**
 Conectar repositórios locais a repositórios remotos
 
 Comandos para interagir com repositórios remotos:
 
-- git remote
-- git fetch
-- git pull
-- git push
+- git remote | Mostra os repositórios remotos configurados.
+- git fetch | Busca as atualizações do repositório remoto para o repositório local, sem aplicar as mudanças.
+- git pull | Atualiza o repositório local com as alterações do repositório remoto.
+- git push | Envia os commits locais para o repositório remoto.
 
 #
 
-**3. Branches e Merging**
+**4. Branches e Merging**
 Conceito de branches e sua importância
 
 Comandos para criar e gerenciar branches:
 
-- git branch
-- git checkout
-- git merge
-- git rebase
+- git branch | Lista, cria ou exclui branches.
+- git checkout | Muda para uma branch existente ou cria uma nova branch.
+- git merge | Combina as alterações de uma branch com outra.
+- git rebase |  Aplica as alterações de uma branch sobre outra, reescrevendo o histórico de commits.
 
 **Recursos Adicionais**
 - Documentação Oficial do Git | https://git-scm.com/doc
