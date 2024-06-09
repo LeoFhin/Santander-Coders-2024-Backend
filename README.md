@@ -13,7 +13,8 @@ Comandos essenciais:
 
 - git init | Inicia um novo repositório Git na pasta atual.
 - git clone | Clona um repositório Git existente para o seu computador.
-- git add | Adiciona arquivos ao índice (staging area) para serem incluídos no próximo commit.
+- git add . "texto" | Adiciona arquivos ao índice para serem incluídos no próximo commit.
+- git diff | Mostra as diferenças entre os arquivos no diretório de trabalho e as versões que estão no índice ou no último commit.
 - git commit | Registra as alterações no repositório, criando um novo commit.
 - git status | Mostra o status atual do repositório, indicando arquivos modificados, adicionados ou removidos.
 - git log | Mostra o histórico de commits do repositório.
