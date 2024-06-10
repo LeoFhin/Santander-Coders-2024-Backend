@@ -4,4 +4,3 @@ Repositório com projetos e anotações do programa Santander Coders 2024 - Tril
 
 Obs: Os tópicos do curso Santander Coders estarão organizados em branches separadas.
 
-a
