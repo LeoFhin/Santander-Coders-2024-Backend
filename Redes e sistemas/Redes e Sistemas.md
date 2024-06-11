@@ -38,3 +38,13 @@ Nos anos 2000, a popularização do Wi-Fi facilitou conexões sem fio, enquanto 
 - Roteador: O roteador tem a responsabilidade de procurar as melhores rotas na internet para entregar os pacotes do remetente ao destinatário no menor tempo possível.
 
 - Modem: É o equipamento responsavel pela modulaçao e domodulação do sinal de internet.
+
+# Cabeamento Estrurado:
+
+São padrões estabelecidas que definem como serão as organizações dos cabos e seus periféricos possibilitando melhor das redes.
+
+- Par trançado: Dividido em 8 fios, cada um com sua propria função, ele tem dois tipos UTP (não é isolado) e o STP (Tem isolamento).
+
+- Cabo Coaxial: É composto por fios d e cobre, tendo um fio central responsavel por ser o condutor do pulso eletrico, malha metalica realizando o isolamento e uma blindagem platica contra interferencias externas.
+
+- Fibra ótica: A fibra ótica é um meio de transmissão de dados que utiliza filamentos de vidro ou plástico para transmitir sinais de luz. É conhecida por sua alta capacidade de transmissão de dados e baixa perda de sinal, tornando-se ideal para longas distâncias e altas velocidades. Usada amplamente em telecomunicações e redes de internet, a fibra ótica proporciona conexões rápidas e confiáveis.
