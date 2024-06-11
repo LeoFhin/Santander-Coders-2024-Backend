@@ -48,3 +48,5 @@ São padrões estabelecidas que definem como serão as organizações dos cabos 
 - Cabo Coaxial: É composto por fios d e cobre, tendo um fio central responsavel por ser o condutor do pulso eletrico, malha metalica realizando o isolamento e uma blindagem platica contra interferencias externas.
 
 - Fibra ótica: A fibra ótica é um meio de transmissão de dados que utiliza filamentos de vidro ou plástico para transmitir sinais de luz. É conhecida por sua alta capacidade de transmissão de dados e baixa perda de sinal, tornando-se ideal para longas distâncias e altas velocidades. Usada amplamente em telecomunicações e redes de internet, a fibra ótica proporciona conexões rápidas e confiáveis.
+
+- Rach: O rack é uma rmario para hospedar os equipamentos de hardwares como swtiches, roteadores, modens, fibras ópticas e organizar os vabos patch panels. Ele é essencial em data centers e engraestruturas de redes.
