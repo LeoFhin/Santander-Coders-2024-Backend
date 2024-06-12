@@ -50,3 +50,42 @@ São padrões estabelecidas que definem como serão as organizações dos cabos 
 - Fibra ótica: A fibra ótica é um meio de transmissão de dados que utiliza filamentos de vidro ou plástico para transmitir sinais de luz. É conhecida por sua alta capacidade de transmissão de dados e baixa perda de sinal, tornando-se ideal para longas distâncias e altas velocidades. Usada amplamente em telecomunicações e redes de internet, a fibra ótica proporciona conexões rápidas e confiáveis.
 
 - Rach: O rack é uma rmario para hospedar os equipamentos de hardwares como swtiches, roteadores, modens, fibras ópticas e organizar os vabos patch panels. Ele é essencial em data centers e engraestruturas de redes.
+
+# Modelo OSI
+
+O Modelo OSI é uma estrutura teórica que define como os diferentes componentes de uma rede se comunicam. Ele é composto por sete camadas, cada uma com uma função específica:
+
+- Camada Física: Trata da transmissão de bits puros através de um meio físico (cabo, fibra óptica, etc.).
+
+- Camada de Enlace de Dados: Garante a transferência de dados livre de erros entre dois nós conectados diretamente. Exemplo: Ethernet.
+
+- Camada de Rede: Gerencia o roteamento dos pacotes entre dispositivos de diferentes redes. Exemplo: IP.
+
+- Camada de Transporte: Garante a entrega confiável e a integridade dos dados entre dois hosts. Exemplo: TCP, UDP.
+
+- Camada de Sessão: Gerencia as sessões ou conexões entre aplicativos. Exemplo: controle de login.
+
+- Camada de Apresentação: Traduz os dados entre o formato da rede e o formato de aplicação. Exemplo: criptografia, compressão de dados.
+
+- Camada de Aplicação: Fornece serviços de rede aos aplicativos dos usuários. Exemplo: HTTP, FTP, SMTP.
+
+# TCP/IP
+
+O Modelo TCP/IP é uma implementação prática e simplificada para a comunicação em redes, especialmente a Internet. Ele tem quatro camadas, cada uma equivalente a uma ou mais camadas do Modelo OSI:
+
+- Camada de Interface de Rede (ou Link): Equivalente às camadas Física e de Enlace de Dados do OSI. Trata da interface com o meio físico e da 
+comunicação dentro da rede local.
+
+- Camada de Internet: Equivalente à camada de Rede do OSI. Gerencia o roteamento dos pacotes na rede. Exemplo: IP.
+
+- Camada de Transporte: Equivalente à camada de Transporte do OSI. Garante a comunicação de dados confiável e a integridade entre dois hosts. Exemplo: TCP, UDP.
+
+- Camada de Aplicação: Combina as camadas de Sessão, Apresentação e Aplicação do OSI. Fornece serviços de rede diretamente aos aplicativos. Exemplo: HTTP, FTP, SMTP.
+
+**Comparação e Intuição**
+
+Estrutura: O Modelo OSI tem sete camadas, enquanto o Modelo TCP/IP tem quatro.
+
+Praticidade: O Modelo TCP/IP é mais simplificado e amplamente usado na prática, especialmente na Internet.
+
+Funcionalidade: Ambos os modelos visam padronizar a comunicação em rede, mas o OSI é mais detalhado teoricamente, enquanto o TCP/IP é mais direto e utilizado na prática.
